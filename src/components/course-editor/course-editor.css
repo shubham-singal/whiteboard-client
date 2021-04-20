@@ -1,0 +1,44 @@
+.navigation-style{
+    color:white;
+    background-color:#515357;
+}
+.navigation-title{
+    padding-top:15px;
+}
+.wbdv-sticky-top {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.nv-btn{
+    background-color: #8f9396;
+}
+.a-btn{
+    margin:10px;
+    color:white;
+}
+.m-btn{
+    margin:5px;
+    color:white;
+    background-color:#434647;
+    font-size:15px
+}
+.pill-bg{
+    background-color: #515357;
+}
+.module-nav{
+    padding-top:30px;
+    background-color:#1c2120;
+}
+.nav-pills >.active>a
+{
+    background-color: #242120 ;
+}
+.nav-tabs > .active > a {
+    background-color: #242120 ;
+}
+
+.plus-btn{
+    alignment: center;
+    text-align: center;
+}

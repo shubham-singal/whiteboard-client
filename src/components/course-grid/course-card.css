@@ -1,0 +1,25 @@
+
+.check-on-image{
+    position: absolute;
+    top: 5px;
+    right: 40px;
+    color:darkgreen;
+}
+
+.trash-on-image{
+    position: absolute;
+    top: 5px;
+    right:20px;
+    color: red;
+}
+
+.edit-position{
+    /*position: absolute;*/
+    bottom: 5px;
+    right: 10px;
+}
+
+.margin-body{
+    margin-bottom: 15px;
+}
+
